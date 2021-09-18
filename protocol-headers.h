@@ -8,9 +8,9 @@
 
 
 //custom header length
-#define ETHER_HDR_LEN		14
-#define IP_HDR_LEN 			20
-#define TCP_HDR_LEN			20
+#define ETHER_HDR_LEN	    14
+#define IP_HDR_LEN	        20
+#define TCP_HDR_LEN	        20
 
 
 
